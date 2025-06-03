@@ -1,8 +1,8 @@
-<h2 align="left">Opa, tudo certo?</h2>
+<h2 align="left">👋 Opa, tudo certo?</h2>
 
 ###
 
-<p align="left">Meu nome é Kemerson, tenho 26 anos, e tenho focado meus estudos em tecnologias DevOps. Aqui colocarei tudo que tenho aprendido de forma prática e mais real possível. Estou aberto a colaborações, pois isso impactará no meu desenvolvimento.</p>
+<p align="left">Meu nome é Kemerson, tenho 26 anos, e tenho focado meus estudos em tecnologias DevOps. 🎯<br>Aqui colocarei tudo que tenho aprendido de forma prática e mais real possível. Estou aberto a colaborações, pois isso impactará no meu desenvolvimento.</p>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Tenho focado meus estudos em..</h2>
+<h2 align="left">O que atualmente tenho estudado🚀</h2>
 
 ###
 
