@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Meu nome é Kemerson, tenho 26 anos, curso redes de computadores e tenho focado meus estudos em DevOps. 🎯<br>Aqui colocarei tudo que tenho aprendido de forma prática e mais real possível. Estou aberto a colaborações, pois isso impactará no meu desenvolvimento.</p>
+<p align="left">Meu nome é Kemerson, tenho 26 anos, estudo tecnologia e tenho focado meus estudos em Phyton, Automações com N8N e DevOps. 🎯<br>Aqui colocarei tudo que tenho aprendido de forma prática e mais real possível. Estou aberto a colaborações, pois isso impactará no meu desenvolvimento.</p>
 
 ###
 
